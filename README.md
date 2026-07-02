@@ -40,6 +40,15 @@ Numerical estimations of $DL_{O_2}$ under different degrees of emphysema are sho
 
 ![Microscale perfusion and gas exchange results.](./Assets/NormalStats.png)
 
+## Poster & Report
+
+<p align="center">
+  <img src="./Assets/Poster.png" alt="Project Poster" width="500"/>
+</p>
+
+You can access the full project report and additional materials here:  
+[Project Report](https://drive.google.com/drive/folders/1eliJ8KYg4mKPKiGe7QVqk8wzPW6J8El1)
+
 ## Dependencies
 
 Source code is written and runs in Python 3.12 and in MATLAB R2023a. The following libraries are employed:
